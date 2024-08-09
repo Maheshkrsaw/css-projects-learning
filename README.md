@@ -13,6 +13,10 @@ This repository showcases a collection of projects that I’ve worked on while l
   Basics of Flexbox with responsive design.  
   **Live Link:** [**Project 2 Live**](https://maheshkrsaw.github.io/css-projects-learning/model-2) 🔗
 
+  - **Project 3: Model-3**  
+  rotate,position...  
+  **Live Link:** [**Project 3 Live**](https://maheshkrsaw.github.io/css-projects-learning/model-3) 🔗
+
 Each project has its own directory with an `index.html` file and corresponding `styles.css` file. Individual `README.md` files in each project folder provide details specific to that project. 📂
 
 ## **Learning Journey** 🚀
