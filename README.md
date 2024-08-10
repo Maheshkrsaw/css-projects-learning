@@ -17,6 +17,10 @@ This repository showcases a collection of projects that I’ve worked on while l
   rotate,position...  
   **Live Link:** [**Project 3 Live**](https://maheshkrsaw.github.io/css-projects-learning/model-3) 🔗
 
+- **Project 4: Model-4**  
+  oerflow-x,calc(),shrink,::-webkit-scrollbar,object position  
+  **Live Link:** [**Project 4 Live**](https://maheshkrsaw.github.io/css-projects-learning/model-4) 🔗
+
 Each project has its own directory with an `index.html` file and corresponding `styles.css` file. Individual `README.md` files in each project folder provide details specific to that project. 📂
 
 ## **Learning Journey** 🚀
